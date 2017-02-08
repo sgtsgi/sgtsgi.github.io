@@ -2,6 +2,7 @@
 layout: page
 title: Webmaster's Log 
 subtitle: The Acknowledgements
+author: arijit
 ---
 
 ### Open Source Projects used for this website are: ###
