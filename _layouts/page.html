@@ -5,6 +5,9 @@ layout: base
 {% include header.html type="page" %}
 
 
+{% if page.fullbg %}
+<div class="sg-bg">
+{% endif %}
 
 <div class="container" role="main">
   <div class="row">
@@ -25,3 +28,7 @@ layout: base
     </div>
   </div>
 </div>
+
+{% if page.fullbg %}
+</div>
+{% endif %}

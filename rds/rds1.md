@@ -1,13 +1,10 @@
 ---
 layout: page
-title: RDS-I
-subtitle: Rock Defomation and Structures I
+title: Rock Deformation and Structures I
+subtitle: Jadavpur University (Kolkata, India)
 bigimg: /img/path.jpg
-author: jorgen
+author: manish
 ---
-# Rock Defomation and Structures I 
-
-### Jadavpur University, 2009
 
 The first Rock Deformation and
 Structures (RDS-I) conference was held in

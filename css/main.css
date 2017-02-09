@@ -673,3 +673,16 @@ td.gutter {
 .intro {
     text-align: justify
 }
+
+.sg-bg {
+    border-top: 5px #EAEAEA solid;
+    border-bottom: 5px #EAEAEA solid;
+    background: linear-gradient(rgba(255, 255, 255, 0.82), rgba(255, 255, 255, 0.82)), rgba(0, 0, 0, 0.82) url('/img/bg.jpg') no-repeat center center scroll;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    padding-top: 80px;
+    padding-bottom: 80px;
+    text-rendering: optimizeLegibility;
+}

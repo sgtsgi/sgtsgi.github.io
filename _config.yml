@@ -70,14 +70,13 @@ authors:
     web: http://company.com
     twitter: company
     github: hhattori
-  jorgen:
-    name: Jörgen Mortensen
-    display_name: Jörgen
-    gravatar: 12e480a364a5c19214f99b4dfe9a11d5
-    email: jorgen@company.com
+  manish:
+    name: Manish A. Mamtani
+    display_name: Manish
+    gravatar: 
+    email: mamtani@gg.iitkgp.ernet.in
     web: http://company.com
-    twitter: company
-    github: jorgenm
+    affliation: Department of Geology & Geophysics, IIT, Kharagpur
   arijit:
     name: Arijit Laik
     display_name: Arijit
