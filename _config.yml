@@ -29,6 +29,7 @@ navbar-links:
     - RDS-II: "rds/rds2"
     - RDS-III: "rds/rds3"
     - RDS-IV: "rds/rds4"
+  Council: "council"
   Forum: "forum"
 
 # Image to show in the navigation bar - image must be a square (width = height)
