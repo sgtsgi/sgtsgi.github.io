@@ -65,7 +65,7 @@ author:
 authors:
   santanu:
     name: Santanu Bose
-    display_name: Santanu
+    display_name: Santanu Bose
     email: bose.santanu@gmail.com
     affliation: Department of Geology, University of Calcutta 
   manish:
@@ -78,6 +78,14 @@ authors:
   arijit:
     name: Arijit Laik
     display_name: Arijit
+    gravatar:
+    email: laikarijit@gmail.com
+    web: https://arijitlaik.github.io
+    twitter: company
+    github: arijitlaik
+  WebDev:
+    name: WebDev@SGTSGI
+    display_name: WebDev@SGTSGI
     gravatar:
     email: laikarijit@gmail.com
     web: https://arijitlaik.github.io
