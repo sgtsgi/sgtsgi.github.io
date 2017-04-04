@@ -63,14 +63,11 @@ author:
 
 
 authors:
-  hanzou:
-    name: Hanzou Hattori
-    display_name: Hanzou
-    gravatar: c66919cb194f96c696c1da0c47354a6a
-    email: hanzou@company.com
-    web: http://company.com
-    twitter: company
-    github: hhattori
+  santanu:
+    name: Santanu Bose
+    display_name: santanu
+    email: bose.santanu@gmail.com
+    affliation: Department of Geology, University of Calcutta 
   manish:
     name: Manish A. Mamtani
     display_name: Manish
