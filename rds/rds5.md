@@ -5,7 +5,7 @@ subtitle: Department of Geology, University of Delhi
 bigimg: /img/RDSIV.jpg
 author: wedev
 ---
-#<button type="button" class="btn btn-default"><a href="/rds/gallery/rds5/circ.pdf">Click Here for Circular</a></button>
+#<button type="button" class="btn btn-default"><a href="/rds/gallery/rds5/Final_circular.pdf">Click Here for Circular</a></button>
 
 After the First Circular (Conference Announcement) released in April 2018,
 this is the Second and Final circular of the 5th Conference and Workshop
