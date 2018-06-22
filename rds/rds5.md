@@ -3,9 +3,9 @@ layout: page
 title: Rock Defomation and Structures IV
 subtitle: Department of Geology, University of Delhi
 bigimg: /img/RDSIV.jpg
-author: wedev
+author: webdev
 ---
-#<button type="button" class="btn btn-default"><a href="/rds/gallery/rds5/Final_circular.pdf">Click Here for Circular</a></button>
+<button type="button" class="btn btn-default"><a href="https://github.com/sgtsgi/sgtsgi.github.io/raw/master/rds/gallery/Final_circular.pdf">Click Here for Circular</a></button>
 
 After the First Circular (Conference Announcement) released in April 2018,
 this is the Second and Final circular of the 5th Conference and Workshop
